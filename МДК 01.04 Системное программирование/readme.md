@@ -50,3 +50,4 @@ git commit -m "G-02: Fixed typo in Elephant" - Для фиксации верс�
 
 git log
 
+Подтверждение Git
