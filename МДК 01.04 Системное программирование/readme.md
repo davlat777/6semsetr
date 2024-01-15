@@ -51,3 +51,6 @@ git commit -m "G-02: Fixed typo in Elephant" - Для фиксации верс�
 git log
 
 Подтверждение Git
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/67d57d68-92a7-47f3-8dfa-a09fa0e3e077)
+
