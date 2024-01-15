@@ -37,5 +37,6 @@ git config --global --unset https.proxy
 git config --global --unset core.gitproxy
 
 Добавление файлов
+
 ![image](https://github.com/davlat777/6semsetr/assets/113089483/2b863e18-1aa1-44e0-9c51-d15bb3ea0caf)
-* - все файлы
+"*" - все файлы
