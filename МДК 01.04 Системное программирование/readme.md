@@ -31,5 +31,7 @@ nothing added to commit but untracked files present (use "git add" to track) - Ð
 git config user.name PK23-12
 
 git config --global â€“unset http.proxy
+
 git config --global --unset https.proxy
+
 git config --global --unset core.gitproxy
