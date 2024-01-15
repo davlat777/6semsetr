@@ -28,3 +28,4 @@ Untracked files: - Неотслеживаемые файлы
 
 nothing added to commit but untracked files present (use "git add" to track) - Найдены файлы для добавления
 
+git config user.name PK23-12
