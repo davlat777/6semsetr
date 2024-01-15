@@ -29,3 +29,7 @@ Untracked files: - Неотслеживаемые файлы
 nothing added to commit but untracked files present (use "git add" to track) - Найдены файлы для добавления
 
 git config user.name PK23-12
+
+git config --global –unset http.proxy
+git config --global --unset https.proxy
+git config --global --unset core.gitproxy
