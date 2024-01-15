@@ -12,3 +12,16 @@ GitBash - команды для работа с Git из терминала ([У
 ![image](https://github.com/davlat777/6semsetr/assets/113089483/b0fc3ffb-82dc-4a76-9ce2-f87d68406f53)
 
 Показывает структуру папки гит "cmd //c tree .git"
+
+git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.html
+        pictures/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
