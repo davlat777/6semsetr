@@ -19,6 +19,7 @@ On branch master - Указывает имя версии
 No commits yet - Нет сохраненных версий
 
 Untracked files: - Неотслеживаемые файлы
+
   (use "git add <file>..." to include in what will be committed) - Нужна команда добавить, чтобы зафиксировать версию для сохранения
   
         index.html
