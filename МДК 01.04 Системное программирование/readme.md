@@ -13,15 +13,17 @@ GitBash - команды для работа с Git из терминала ([У
 
 Показывает структуру папки гит "cmd //c tree .git"
 
-git status
-On branch master
+git status - Показывает статус репозитория
+On branch master - Указывает имя версии
 
-No commits yet
+No commits yet - Нет сохраненных версий
 
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
+Untracked files: - Неотслеживаемые файлы
+  (use "git add <file>..." to include in what will be committed) - Нужна команда добавить, чтобы зафиксировать версию для сохранения
+  
         index.html
-        pictures/
+        pictures 
+список файлов для сохранения
 
-nothing added to commit but untracked files present (use "git add" to track)
+nothing added to commit but untracked files present (use "git add" to track) - Найдены файлы для добавления
 
