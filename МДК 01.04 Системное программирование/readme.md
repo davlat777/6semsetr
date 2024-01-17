@@ -57,3 +57,6 @@ git log
 ![image](https://github.com/davlat777/6semsetr/assets/113089483/9c1034f9-3201-4f28-b831-7763474cfcea)
 
 ![image](https://github.com/davlat777/6semsetr/assets/113089483/b21a29b9-9496-471f-b43b-55905e7ba987)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/24ce3a03-8ff6-473b-8ca0-33c0aee0588a)
+
