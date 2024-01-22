@@ -62,7 +62,7 @@ Jтличное знание PHP (laravel) и ООП
 
 **Верефикация и валидация**
 
-
+![image](https://github.com/davlat777/6semsetr/assets/113089483/081f2389-08d2-40be-af7f-f5b87b76bc24)
 
 **Качество:**
 1.Субъективно
