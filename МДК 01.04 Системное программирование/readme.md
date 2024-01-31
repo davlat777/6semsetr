@@ -80,6 +80,8 @@ git log
 
 ![image](https://github.com/davlat777/6semsetr/assets/113089483/a9522be2-c4c8-4f78-9c5b-1dc3d46b870d)
 
+#Задание 1. Знакомство с компилятором gcc
+
 ![image](https://github.com/davlat777/6semsetr/assets/113089483/ac9c9c28-abaa-4ed1-b964-5aeebe92b5bc)
 
 ![image](https://github.com/davlat777/6semsetr/assets/113089483/72ab62c1-49b1-4197-a73e-46fa6699301d)
