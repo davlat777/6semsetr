@@ -73,3 +73,18 @@ git log
 2.Команды config настраиваются на ПК 1 раз
 
 3.git remote указывается 1 раз
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/62249f7d-f52d-4dbe-961f-d3d6656de639)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/349678c5-f5a3-41ca-926d-718efb60f8c8)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/a9522be2-c4c8-4f78-9c5b-1dc3d46b870d)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/ac9c9c28-abaa-4ed1-b964-5aeebe92b5bc)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/72ab62c1-49b1-4197-a73e-46fa6699301d)
+
+
+
+
+
