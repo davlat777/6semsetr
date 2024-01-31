@@ -95,3 +95,8 @@ RedOS:
 
 12345678
 
+![image](https://github.com/davlat777/6semsetr/assets/113089483/df5d12a5-957c-4792-aea0-780a9d4ac210)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/328b382c-5dd5-43c6-bc08-e9c20419ab6c)
+
+
