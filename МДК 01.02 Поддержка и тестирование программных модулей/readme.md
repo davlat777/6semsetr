@@ -1,4 +1,4 @@
-![image](https://github.com/davlat777/6semsetr/assets/113089483/c727eb75-d007-4f28-8085-4fcf4ec8330c)# ЛК1 22.01.24 Основы тестирования
+# ЛК1 22.01.24 Основы тестирования
 
 [Минимальная зп](https://zvenigorod.hh.ru/vacancy/91095485?query=тестировщик&hhtmFrom=vacancy_search_list)
 Опыт работы в тестировании ПО не менее 1 года.
@@ -103,7 +103,7 @@ Jтличное знание PHP (laravel) и ООП
 
 ![image](https://github.com/davlat777/6semsetr/assets/113089483/50dc1988-ba73-4010-be34-a11cbd4df6ee)
 
-
+![image](https://github.com/davlat777/6semsetr/assets/113089483/c727eb75-d007-4f28-8085-4fcf4ec8330c)
 
 
 
