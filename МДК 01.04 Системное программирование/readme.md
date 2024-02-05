@@ -108,8 +108,13 @@ RedOS:
 4. Удаление
 
 Обычный (regular) файл
+
 1)touch
+
 2)mb
+
 3)nano
+
 4)cat
+
 5)rm
