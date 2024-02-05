@@ -1,4 +1,4 @@
-# ЛК1 22.01.24 Основы тестирования
+![image](https://github.com/davlat777/6semsetr/assets/113089483/c727eb75-d007-4f28-8085-4fcf4ec8330c)# ЛК1 22.01.24 Основы тестирования
 
 [Минимальная зп](https://zvenigorod.hh.ru/vacancy/91095485?query=тестировщик&hhtmFrom=vacancy_search_list)
 Опыт работы в тестировании ПО не менее 1 года.
@@ -88,3 +88,24 @@ Jтличное знание PHP (laravel) и ООП
 5.Парадокс пестицида(повторя одно и тоже, новые дефекты не найти)
 6.Нужен контекст 
 7.Не забываем про пользователя
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/d0dd70ad-8a07-4532-901a-436b0feea816)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/c2686fec-eb95-40da-ba69-834f69472171)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/3452f249-0d77-4a3a-940e-7ac12b7eacee)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/c429c4c6-fe5b-4638-8eda-5e097d251b4d)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/93bb5780-a383-497c-915d-d022838174c5)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/6d73b398-aabc-48dc-a997-6b140e795375)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/50dc1988-ba73-4010-be34-a11cbd4df6ee)
+
+
+
+
+
+
+
