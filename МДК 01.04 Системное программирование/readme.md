@@ -120,3 +120,4 @@ RedOS:
 5)rm
 
 ![image](https://github.com/davlat777/6semsetr/assets/113089483/e28e3a71-e067-4cc4-9eb7-81fce02d6c61)
+![image](https://github.com/davlat777/6semsetr/assets/113089483/988c4b7e-589a-476e-83a4-217ab09fdebb)
