@@ -126,3 +126,5 @@ RedOS:
 ![image](https://github.com/davlat777/6semsetr/assets/113089483/8b97b44b-e856-42c3-8f6c-8d4483f9f256)
 ![image](https://github.com/davlat777/6semsetr/assets/113089483/3e6b7eb9-ad7b-4f4f-bf4e-9969d1096226)
 ![image](https://github.com/davlat777/6semsetr/assets/113089483/a0822671-221b-4725-8c75-4a9b6a024690)
+![image](https://github.com/davlat777/6semsetr/assets/113089483/b89c5b32-e9fe-4c82-971b-19485ccc786f)
+
