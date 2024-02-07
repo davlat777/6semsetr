@@ -118,3 +118,5 @@ RedOS:
 4)cat
 
 5)rm
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/e28e3a71-e067-4cc4-9eb7-81fce02d6c61)
