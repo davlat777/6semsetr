@@ -1,4 +1,4 @@
-# ЛК 15.01.24
+![image](https://github.com/davlat777/6semsetr/assets/113089483/5b03d3aa-7baf-4cfd-aaa9-f51fa03c1a78)# ЛК 15.01.24
 GitBash - команды для работа с Git из терминала ([Установка](https://git-scm.com/downloads))
 
 Прокси сервер Git config "--global http.proxy 10.0.50.52:3128"
@@ -124,7 +124,78 @@ RedOS:
 ![image](https://github.com/davlat777/6semsetr/assets/113089483/4043905a-9c41-4775-803d-35343d6887d2)
 ![image](https://github.com/davlat777/6semsetr/assets/113089483/5f27bc80-3217-45de-9a83-b8c87484f2e8)
 ![image](https://github.com/davlat777/6semsetr/assets/113089483/8b97b44b-e856-42c3-8f6c-8d4483f9f256)
-![image](https://github.com/davlat777/6semsetr/assets/113089483/3e6b7eb9-ad7b-4f4f-bf4e-9969d1096226)
-![image](https://github.com/davlat777/6semsetr/assets/113089483/a0822671-221b-4725-8c75-4a9b6a024690)
-![image](https://github.com/davlat777/6semsetr/assets/113089483/b89c5b32-e9fe-4c82-971b-19485ccc786f)
+
+Устройства:
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/943f13c4-e910-405d-886b-fbfc4d82e6ac)
+![image](https://github.com/davlat777/6semsetr/assets/113089483/796c491b-8563-4714-a802-4062e0392339)
+
+c - cимвольные
+
+блочные (флешки)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/592ea408-953e-4cee-9cd4-562b417a49b8)
+![image](https://github.com/davlat777/6semsetr/assets/113089483/09de5fb9-d523-4485-8aa2-cf64e36495f3)
+![image](https://github.com/davlat777/6semsetr/assets/113089483/424b6794-f206-490d-824f-5b6c4a056c35)
+
+b - блок
+
+Пытались создать флешку
+
+Файлам присваиваются уникальные номера - inod, посмотреть команды - ls-i1
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/6c6952db-748c-4dac-90b3-e8048d1608af)
+
+
+Жесткие ссылки имеют тот же номер что и файл и это можно использовать, чтобы найти все жесткие ссылки
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/452a7bb1-16f8-455b-ba4b-441e95ef0c29)
+![image](https://github.com/davlat777/6semsetr/assets/113089483/81e6d825-ca68-45d2-8571-19582c476401)
+![image](https://github.com/davlat777/6semsetr/assets/113089483/ccdbeffb-83b9-48be-9237-76cea0f66575)
+![image](https://github.com/davlat777/6semsetr/assets/113089483/4f452d34-288c-4b4c-bfe1-85b14db9d35d)
+![image](https://github.com/davlat777/6semsetr/assets/113089483/d04897ff-0b6b-434c-98ef-df3d0bfe48ce)
+![image](https://github.com/davlat777/6semsetr/assets/113089483/9607d325-fe42-49e0-90fe-251025c9ba57)
+![image](https://github.com/davlat777/6semsetr/assets/113089483/b87ac92c-4253-4999-8195-665b47ae34bc)
+![image](https://github.com/davlat777/6semsetr/assets/113089483/6df9cf98-fbf8-4dab-a0fa-d12a64ca535a)
+![image](https://github.com/davlat777/6semsetr/assets/113089483/bb2dc86d-9e18-4c74-91c8-57a5e37dd654)
+![image](https://github.com/davlat777/6semsetr/assets/113089483/79467827-cc5d-4717-9fc4-84db93618277)
+![image](https://github.com/davlat777/6semsetr/assets/113089483/335779fb-ad10-4f3b-ab88-d69470f6c820)
+![image](https://github.com/davlat777/6semsetr/assets/113089483/58ec0cc9-d53f-4b8a-bec4-a3025ae7b194)
+![image](https://github.com/davlat777/6semsetr/assets/113089483/b4a3cfbd-973f-4926-8b30-5c76eb14e571)
+
+https://docs.google.com/document/d/1z27O5xLblWKjIxcXRZnbd1smm-oYa8bt/edit#heading=h.lxq8x11igx58
+
+**ЛК 19.02.24 Скрипт на создание и удаление пользователя**
+
+Имя пользователя/Место под пароль/Номер пользователя/Номер группы пользователя/название группы/Домашняя директория пользователя/Терминал пользователя
+
+Создаем пользователя 
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/ce61d852-3202-4746-998e-576125587012)
+
+Переключаем ползователя
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/7775d69d-006b-45a4-8b61-952491b41bc4)
+
+Создаем пароль для нашего пользователя
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/0627cc04-f3f3-453b-92ba-ea75fc12a135)
+
+Создаем пользователя в нашем новом пользователе при помощи сркипта
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/a01ecf8b-3315-400f-8089-5f42c20accc2)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/5b3223de-5f12-4be6-ac6e-a1a2dfc4d6f2)
+
+
+
+
+
+
+
+
+
+
+
+
 
