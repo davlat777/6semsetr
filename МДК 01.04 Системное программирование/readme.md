@@ -162,6 +162,8 @@ b - блок
 ![image](https://github.com/davlat777/6semsetr/assets/113089483/335779fb-ad10-4f3b-ab88-d69470f6c820)
 ![image](https://github.com/davlat777/6semsetr/assets/113089483/58ec0cc9-d53f-4b8a-bec4-a3025ae7b194)
 ![image](https://github.com/davlat777/6semsetr/assets/113089483/b4a3cfbd-973f-4926-8b30-5c76eb14e571)
+![image](https://github.com/davlat777/6semsetr/assets/113089483/32a4fb87-ef37-4628-a0de-fdbf5f2723ee)
+
 
 https://docs.google.com/document/d/1z27O5xLblWKjIxcXRZnbd1smm-oYa8bt/edit#heading=h.lxq8x11igx58
 
