@@ -1,4 +1,4 @@
-![image](https://github.com/davlat777/6semsetr/assets/113089483/5b03d3aa-7baf-4cfd-aaa9-f51fa03c1a78)# ЛК 15.01.24
+![image](https://github.com/davlat777/6semsetr/assets/113089483/fc5facb6-2219-495d-bfdf-35360b85ea0e)![image](https://github.com/davlat777/6semsetr/assets/113089483/5b03d3aa-7baf-4cfd-aaa9-f51fa03c1a78)# ЛК 15.01.24
 GitBash - команды для работа с Git из терминала ([Установка](https://git-scm.com/downloads))
 
 Прокси сервер Git config "--global http.proxy 10.0.50.52:3128"
@@ -167,7 +167,7 @@ b - блок
 
 https://docs.google.com/document/d/1z27O5xLblWKjIxcXRZnbd1smm-oYa8bt/edit#heading=h.lxq8x11igx58
 
-**ЛК 19.02.24 Скрипт на создание и удаление пользователя**
+# ЛК 19.02.24 Скрипт на создание и удаление пользователя
 
 Имя пользователя/Место под пароль/Номер пользователя/Номер группы пользователя/название группы/Домашняя директория пользователя/Терминал пользователя
 
@@ -188,6 +188,115 @@ https://docs.google.com/document/d/1z27O5xLblWKjIxcXRZnbd1smm-oYa8bt/edit#headin
 ![image](https://github.com/davlat777/6semsetr/assets/113089483/a01ecf8b-3315-400f-8089-5f42c20accc2)
 
 ![image](https://github.com/davlat777/6semsetr/assets/113089483/5b3223de-5f12-4be6-ac6e-a1a2dfc4d6f2)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/577b3929-51de-473d-8592-a2017621213d)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/b1be08bd-400d-490a-ab14-6a1bbc010946)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/3a52c11c-97ab-4804-a795-1ffe25225540)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/25a78db8-601b-4d58-b176-411bb7a37b51)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/9ad39076-e544-4f14-8190-707398dc1fb5)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/0a212beb-71c1-4da3-969f-2058d6f9d574)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/2fb5a295-258e-4dd7-b665-69dabbc6992d)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/818d7d1c-9e71-4ae9-b060-6dbcc0b96ed3)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/d8abc047-953d-412e-82e6-998f293930b8)
+
+# ЛК4 04.03.24 Структура памяти процесса
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/af4882fb-08ec-406d-ad45-eee759cf5724)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/283beecd-f519-4ecb-8e80-42f8e4440595)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/ad787ede-aecc-45c7-a42e-aa62e2e812bf)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/fab1f503-0111-4784-9f7e-dd570a6631ae)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/7facca6f-5b39-416c-9a39-f1b2f6092894)
+
+PID - номера поцесса (на винде в диспетчере задач смотрим)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/486a0694-efb2-4a33-a524-94eb3027e3a8)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/1f5bbb2c-8dec-47df-bba2-530dffa10819)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/795180dd-75a3-4107-bc11-0c8c817832fb)
+
+Память запоняется в определенные ячейки(разные)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/f7908e7a-1b10-45c0-b577-70e34214133e)
+
+Библиотеки:
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/bb88102f-3f15-4323-a732-83dc3e6e4da0)
+
+Область данных и текст(код):
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/9db9eefd-a67b-4d85-ac16-c6c2c1868ce0)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/da0d8373-bfc7-47b3-bde6-8e0e14bc77e7)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/7a0420d2-f49d-4784-8716-a0d75df56b02)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/0107f28f-481f-440a-9a9f-ffaea60a08db)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/26d62e18-45c4-4a64-a658-f398ea08cf6f)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/6a02fa2e-d8cd-4282-adc7-45b2e846fd73)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/6980bd56-41fd-4144-a67b-26a033b69b5a)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/486fecb7-657c-47fa-acd7-087fba96988c)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/ebc43089-df0c-4074-8fbe-3b97d7e26d0b)
+
+![image](https://github.com/davlat777/6semsetr/assets/113089483/0894e26b-ff19-489a-8784-359f8146dd0d)
+
+# ЛК5 11.03.24. Потоки в БД
+
+**Атрибуты процесса:**
+
+1.PID - уникальный идентификатор
+
+2.Адресация областей памяти процесса
+
+3.fd - открытые файловые дескрипторы (терминал или файлы которые используют процессы)
+
+4.Обработчики сигналов процесса (введение запроса пользователя)
+
+5.Код выхода (Ctr+C, Ctr+Z, exit, Программа все выполнила)
+
+6.Рабочий каталог (Папка рабочего процесса - proc)
+
+7.Переменные окружения (Комментарии)
+
+8.Состояние процесса
+
+9.Аппаратный контекст (То что определяься компьютером)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
